@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Mitsuo! 👋
+# Hi, I'm DanMit! 👋
 
 * I'm a passionate code enthusiast dedicated to creating innovative solutions. 💻 I believe that coding is a powerful form of expression, and every line I write contributes to a larger story. 📖 I'm excited to explore the endless possibilities of technology and shape the future, one line of code at a time. 🚀
 
