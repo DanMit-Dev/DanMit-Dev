@@ -13,10 +13,4 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/205089404?v=4" alt="DanMit Logo" width="200">
 </div>
-<div align="center">
-  <h1>Welcome to My GitHub Profile!</h1>
-  <p>
-    ![Visitor Count](https://komarev.com/ghpvc/?username=DanMit-Dev&color=blue)
-  </p>
-</div>
 
