@@ -11,7 +11,8 @@
 * I am currently focused on advancing my knowledge of artificial intelligence 🤖, while maintaining a strong passion for front-end development and technical documentation. 📝 I have a particular interest in machine learning and am eager to deepen my understanding of GEM technologies. I am enthusiastic about collaborating on innovative and impactful projects, especially within the open-source community. 🤝 Please feel free to connect if you believe we can create something remarkable together.
 
 <div align="center">
-<img src="[https://avatars.githubusercontent.com/u/205089404?v=4](https://github.com/DanMit-Dev/DanMit-Dev/blob/main/images&videos/DanMit.gif)" alt="DanMit Logo" width="200">
+<img src="https://github.com/DanMit-Dev/DanMit-Dev/blob/main/images&videos/DanMit.gif" alt="Logo" width="500" />
+
 </div>
 <pre>
  ██████╗  █████╗ ███╗   ██╗███╗   ███╗██╗████████╗ 
